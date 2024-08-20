@@ -1,0 +1,280 @@
+body
+{
+    background-color: burlywood;
+}
+.boss{
+    background-color: black;
+    width: 100%;
+    height: 100px; 
+}
+.logo{
+   
+    width: 10%;
+    height: 100%;
+}
+.logo img{
+    width: 90%;
+    height: 100%;
+    cursor: pointer;
+}
+.Home{
+    
+    width: 200px;
+    height: 100%;
+    margin-left: 300px;
+    margin-top: -100px;
+}
+.Home button{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: 35px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.Home button:hover{
+    background-color: burlywood;
+}
+.SamplePhotos{
+    width: 200px;
+    height: 100%;
+    margin-left: 650px;
+    margin-top: -100px;
+}
+.SamplePhotos button{
+    background-color: black;
+    width: 290px;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: -100px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.SamplePhotos button:hover
+{
+    background-color: burlywood;
+}
+.Introduce{
+    background-color: black;
+    width: 200px;
+    height: 100%;
+    margin-left: 1000px;
+    margin-top: -100px;
+}
+.Introduce button{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: -70px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.Introduce button:hover{
+    background-color: burlywood;
+}
+.Accessory
+{
+   
+    width: 200px;
+    height: 100%;
+    margin-left: 1310px;
+    margin-top: -100px;
+}
+.Accessory button{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: -100px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.Accessory button:hover
+{
+    background-color: burlywood;
+}
+.img{
+    
+    width: 100%;
+    height: 400px;
+}
+.img1{
+   
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.img1 img{
+    width: 300px;
+    height: 100%;
+}
+.img2{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.img2 img{
+    width: 300px;
+    height: 100%;
+    margin-left: -10px;
+}
+
+.img3{
+    width: 20%;
+    height: 100%;
+
+    float: left;
+}
+.img3 img{
+    width: 300px;
+    height: 100%;
+    margin-left: -15px;
+    
+}
+.img4 {
+    
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.img4 img{
+    width: 300px;
+    height: 100%;
+    margin-left: -17px;
+ 
+}
+.img5{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.img5 img{
+    width: 300px;
+    height: 100%;
+    margin-left: -19px;
+ 
+}
+.tool{
+   
+    width: 100%;
+    height: 90px;
+}
+.tool1{
+    
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.tool2{
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.address{
+   
+    width: 100%;
+    height: 110px;
+}
+.facebook{
+    
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.facebook img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.tiktok{
+   
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.tiktok img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.lg{
+    
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.lg img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.gmail{
+   
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.gmail img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.youtube{
+   
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.youtube img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.address2{
+    width: 33%;
+    height: 50%;
+    margin-left: 500px;
+    margin-top: -60px;
+}
+.phone{
+    
+    width: 45%;
+    height: 50%;
+    margin-left: 500px;
+}
+.flower1{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.flower2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    float: left;}
+.flower3{
+        background-color: green;
+        width: 100px;
+        height: 100px;
+        float: left;
+}
+.flower4{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.flower5{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+
+
+
